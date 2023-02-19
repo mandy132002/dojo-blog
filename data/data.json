@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"Mandar",
+            "body":"my name is mandar",
+            "author":"mandar" ,
+            "id":1
+        },
+        {
+            "title":"Aaakash",
+            "body":"my name is aakash",
+            "author":"aakash" ,
+            "id":2
+        }
+    ]
+}
