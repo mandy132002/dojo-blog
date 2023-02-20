@@ -9,7 +9,7 @@ export default function Home() {
   
   return (
     <div className='homepage font-quicksand'>
-        <h2>Home Page</h2>
+        <h2 className='text-4xl font-bold'>All Blogs!</h2>
         {error && <div>{ error }</div>}
         {isPending && <div>Loading........</div>}
         { blogs && <BlogList blogs={blogs} /> }
